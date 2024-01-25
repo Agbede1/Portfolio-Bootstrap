@@ -1,0 +1,9 @@
+body{
+    background-color: #f0f0f0;
+}
+.one, .two{
+height: 60px;
+width: 200px;
+font-size: 30px;
+justify-content: center;
+}
